@@ -7,7 +7,7 @@ import threading
 
 # --- MT5 Login Details ---
 MT5_LOGIN = 99534041
-MT5_PASSWORD = "Sexo247420@"
+MT5_PASSWORD = "PASS"
 MT5_SERVER = "XMGlobal-MT5 5"
 
 btc_symbol = None  # Will be detected on login
